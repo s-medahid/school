@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "jB5hdgAJZS535GslHnV72l+e+k8eXxx8TsUoaweZoQdUMwemtXaq/HOSMdboUv5XIKdmrTZkt6Q6n93ZsgF2tg==",
+  "success": true,
+  "projectFilePath": "M:\\Projet\\manage-school\\back\\school\\school\\school.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohamed Ahid\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\Mohamed Ahid\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Mohamed Ahid\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Mohamed Ahid\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Mohamed Ahid\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Mohamed Ahid\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Mohamed Ahid\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
